@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikhilt77
 - 👀 I’m interested in Web development,app development,..
-- 🌱 I’m currently learning react,JAVA and C
+- 🌱 I’m currently learning swift and JAVA
 - 💞️ I’m looking to collaborate on Cloud based projects,Backend projects,..
 - 📫 You can reach me on my email:nikhiltomy.mec@gmail.com
 [![nikhilt77's GitHub stats](https://github-readme-stats-olcd.vercel.app/api?username=nikhilt77&show_icons=true&theme=transparent&card_width=400&hide_title=true&hide_border=true)](https://github.com/nikhilt77)
