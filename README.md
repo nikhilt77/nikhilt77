@@ -1,6 +1,6 @@
 👋 Hi, I’m @nikhilt77
 - 👀 I’m interested in Web development, app development...
-- 🌱 I’m currently learning Swift and JAVA
+- 🌱 I’m currently learning Swift and Spring Boot
 - 💞️ I’m looking to collaborate on Cloud-based projects, Backend projects...
 - 📫 You can reach me on my email: nikhiltomy.mec@gmail.com
 
